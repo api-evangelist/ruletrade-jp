@@ -1,4 +1,4 @@
-# ruletrade-jp
+# RULE TRADE
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,96 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ruletrade-jp is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ruletrade.jp/
+RULE TRADE provides free, data‑driven analysis of Japanese stock trading rules. The site offers extensive back‑tested research on technical indicators, market folklore, and classic trading strategies, presenting results, methodology, and educational content without recommending specific securities. All content is freely accessible and aims to help investors apply rule‑based approaches to equity markets.
+
+**Areas:** Finance · Investing · Stock Market · Japan · Education
+
+## RULE TRADE on APIs.io
+
+Everything profiled for RULE TRADE is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ruletrade-jp/](https://apis.io/providers/ruletrade-jp/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [RULE TRADE API](https://apis.io/apis/ruletrade-jp/rule-trade-api/) — The provider offers a free data‑driven analysis platform but does not publish a public API specification.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [RULE TRADE Domain Security](https://apis.io/security/ruletrade-jp/ruletrade-jp-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [RULE TRADE Plans Pricing](https://apis.io/plans/ruletrade-jp/ruletrade-jp-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ruletrade.jp/)
+- [Documentation](https://ruletrade.jp/learn.html)
+- [Pricing](https://app.ruletrade.jp/pricing)
+- [Terms of service](https://app.ruletrade.jp/legal/terms)
+- [Privacy policy](https://app.ruletrade.jp/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 19.6** — emerging · rubric 0.27.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 63.7 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 13.7** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ruletrade-jp/](https://apis.io/providers/ruletrade-jp/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for RULE TRADE: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ruletrade-jp/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
